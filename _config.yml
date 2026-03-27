@@ -1,5 +1,5 @@
 title: "Your Site Title"
 description: "Short description"
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@v4.24.0"
 plugins:
   - jekyll-remote-theme
