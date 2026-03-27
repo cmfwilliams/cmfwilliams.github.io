@@ -1,6 +1,7 @@
 title: "Your Site Title"
 description: "Short description"
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: sunrise
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
