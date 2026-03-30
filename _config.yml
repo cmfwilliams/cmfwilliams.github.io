@@ -4,6 +4,10 @@ subtitle: "PhD Candidate"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: sunrise
 markdown: kramdown
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  syntax_highlighter: rouge
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
