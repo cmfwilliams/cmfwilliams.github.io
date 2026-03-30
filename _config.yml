@@ -3,6 +3,7 @@ title_separator: "|"
 subtitle: "PhD Candidate"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: sunrise
+markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
