@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 author_profile: true
 title: "Welcome"
 ---
