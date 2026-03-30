@@ -10,7 +10,7 @@ plugins:
 # Author Sidebar
 author:
   name: "Carenza Williams"
-  avatar: "assets/images/profile.jpg"
+  avatar: "assets/images/profile.png"
   bio: "Arctic Physical Oceanographer"
   location: "Johns Hopkins University"
   links:
