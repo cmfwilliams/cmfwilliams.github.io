@@ -1,7 +1,10 @@
 title: "Carenza Williams"
 title_separator: "|"
 subtitle: "PhD Candidate"
-remote_theme: "mmistakes/minimal-mistakes"
+url: "https://cmfwilliams.github.io"
+baseurl: ""
+repository: "cmfwilliams/cmfwilliams.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: sunrise
 markdown: kramdown
 kramdown:
