@@ -4,6 +4,7 @@ subtitle: "PhD Candidate"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: sunrise
 markdown: kramdown
+kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
