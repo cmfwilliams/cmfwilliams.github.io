@@ -1,11 +1,15 @@
 ---
-layout: single
+layout: page
 author_profile: true
-title: "Welcome"
+title: "Carenza Williams"
 ---
 
-Hi! My name is Carenza (Cara) Williams. I'm a PhD candidate at Johns Hopkins University, working with Prof. Thomas Haine. I use ocean models to understand more about Arctic circulation and dynamics, with a particular focus on interannual salinity trends. 
+I'm a PhD candidate at Johns Hopkins University, working with Prof. Thomas Haine. I use ocean models to understand more about Arctic circulation and dynamics, with a particular focus on interannual salinity trends.
 
-# Research Overview
+## Research Overview
 
 Research information to come!
+
+## Current Projects
+
+Details to be added.
