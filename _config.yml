@@ -54,3 +54,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Navigation
+navigation:
+  main:
+    - title: "Research"
+      url: /research/
+    - title: "Publications"
+      url: /publications/
+    - title: "Teaching"
+      url: /teaching/
