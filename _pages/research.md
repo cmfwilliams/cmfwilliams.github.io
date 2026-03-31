@@ -9,7 +9,7 @@ toc_label: "Research Areas"
 
 ## Overview
 
-I am interested in the circulation of the Arctic Ocean.
+I am interested in the circulation of the Arctic Ocean and its variability. I use a combination of ocean models, state estimates, observations, and occasionally theory, to investigate the dynamics of the Arctic Ocean. For my PhD, I am focusing on the salinity trends and variabilty of the Beaufort Gyre. 
 
 ## Current Projects
 
